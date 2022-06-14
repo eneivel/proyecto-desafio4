@@ -1,0 +1,9 @@
+.navbar-brand, footer img{
+    width: 5rem;
+}
+.navbar-brand{
+    margin-left: 2rem;
+}
+.card img{
+    height: 20rem;
+}
